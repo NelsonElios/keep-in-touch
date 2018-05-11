@@ -6,7 +6,7 @@ import {BarcodeScanResult} from "@ionic-native/barcode-scanner";
  * Generated class for the FormPage page.
  *
  * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigations.
+ * Ionic pages and navigation.
  */
 
 @IonicPage()
